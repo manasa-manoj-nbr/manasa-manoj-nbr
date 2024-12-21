@@ -47,8 +47,8 @@ Here are some of my highlighted works:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manasa-manoj&show_icons=true&theme=react" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasa-manoj&theme=react" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=manasa-manoj-nbr&show_icons=true&theme=react" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasa-manoj-nbr&theme=react" alt="Streak Stats">
 </div>
 
 ---
