@@ -1,3 +1,10 @@
+<div align="right">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=manasa-manoj-nbr&style=flat&label=Views&abbreviated=true" />
+  </a>
+</div>&nbsp;
+
+
 # Hi there, I'm Manasa Manoj! ✨
 
 Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Cyber Security Enthusiast** who loves building innovative solutions and securing the digital world. ✨
