@@ -4,6 +4,9 @@
   </a>
 </div>&nbsp;
 
+<div align="center" >
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h6emRuMTQ5dmxuNWV6dzV5OW9hMmMyZjB1ZGltN3hkMWdtMHk3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFFguNjdeotwc/giphy.gif" height="500" />
+</div>
 
 # Hi there, I'm Manasa Manoj! ✨
 
