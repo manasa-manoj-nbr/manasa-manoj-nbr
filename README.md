@@ -1,8 +1,4 @@
-<div align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=manasa-manoj-nbr&style=flat&label=Views&abbreviated=true" />
-  </a>
-</div>&nbsp;
+
 
 <div align="center" >
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h6emRuMTQ5dmxuNWV6dzV5OW9hMmMyZjB1ZGltN3hkMWdtMHk3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFFguNjdeotwc/giphy.gif" height="500" />
