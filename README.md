@@ -18,15 +18,6 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Cyber Sec
   
 ---
 
-## 🔨 Projects
-Here are some of my highlighted works:
-
-### 💡 Mini Finance Applications
-- **Tech:** HTML, Tailwind CSS, JavaScript
-- **Features:**
-   - Tip Calculator: Calculate tips effortlessly with customizable inputs
-   - Savings Calculator: Plan savings goals and see progress over time
-   - Loan Calculator: Analyze loan amounts, interest rates, and repayment timelines
 
 > Explore more in my [repositories](https://github.com/manasa-manoj-nbr)!
 
