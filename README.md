@@ -18,9 +18,6 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Cyber Sec
   
 ---
 
-
-> Explore more in my [repositories](https://github.com/manasa-manoj-nbr)!
-
 ---
 
 ## 🛠 Skills & Technologies
