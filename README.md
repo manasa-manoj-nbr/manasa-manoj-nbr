@@ -1,23 +1,21 @@
-# hi, i'm manasa 👋
+## Hi, i'm Manasa,
 
-developer who builds full-stack apps, tinkers with AI, and occasionally questions the laws of physics through quantum computing.
+> *full-stack dev • quantum computing enthusiast • ai tinkerer • professional overthinker of side projects*
 
-currently learning Rust — the compiler and I have a complicated relationship 🦀
-
----
-
-## ⚛️ quantum work
-
-this is where things get interesting. i explore quantum algorithms, cryptography, and error correction — mostly through jupyter notebooks and a lot of trial and error.
-
-- 🔐 **[qkd](https://github.com/manasa-manoj-nbr/qkd)** — Quantum Key Distribution
-- 🔍 **[Grover-Algorithm](https://github.com/manasa-manoj-nbr/Grover-Algorithm)** — Grover's search algorithm implementation
-- 🧮 **[quantum-computing](https://github.com/manasa-manoj-nbr/quantum-computing)** — general quantum explorations
-- 🛡️ **[qec](https://github.com/manasa-manoj-nbr/qec)** — Quantum Error Correction Simulator
+By day I'm wrangling TypeScript and Python. By night I'm asking Jupyter Notebooks why my quantum circuit is broken (it's always the phase). Currently on a mission to learn Rust — send help 🦀
 
 ---
 
-## 🛠️ tech i work with
+### quantum work
+
+-  **[qkd](https://github.com/manasa-manoj-nbr/qkd)** — Quantum Key Distribution
+-  **[Grover-Algorithm](https://github.com/manasa-manoj-nbr/Grover-Algorithm)** — Grover's search algorithm implementation
+-  **[quantum-computing](https://github.com/manasa-manoj-nbr/quantum-computing)** — general quantum explorations
+-  **[qec](https://github.com/manasa-manoj-nbr/qec)** — Quantum Error Correction Simulator
+
+---
+
+### tech i work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -29,7 +27,7 @@ this is where things get interesting. i explore quantum algorithms, cryptography
 
 ---
 
-## 📊 github stats
+### github stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manasa-manoj-nbr&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
@@ -38,17 +36,17 @@ this is where things get interesting. i explore quantum algorithms, cryptography
 
 ---
 
-## 📌 right now
+### currently
 
-- 🛡️ simulating quantum error correction
-- 🤖 building AI-powered tools and integrations
-- 🦀 fighting the Rust borrow checker (it's winning)
+- simulating quantum error correction
+- building AI-powered tools and integrations
+- fighting the Rust borrow checker (it's winning)
 
 ---
 
-## 🤝 connect
+### connect
 
 <p>
   <a href="https://manasamanoj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/manasa-manoj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/manasa-manoj-294220310/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
