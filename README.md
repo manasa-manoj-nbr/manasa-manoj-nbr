@@ -2,7 +2,6 @@
 
 > *full-stack dev • quantum computing enthusiast • ai tinkerer • professional overthinker of side projects*
 
-By day I'm wrangling TypeScript and Python. By night I'm asking Jupyter Notebooks why my quantum circuit is broken (it's always the phase). Currently on a mission to learn Rust — send help 🦀
 
 ---
 
